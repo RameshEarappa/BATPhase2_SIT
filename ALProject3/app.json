@@ -1,0 +1,39 @@
+{
+  "id": "7e70cce2-8ccb-4d6c-8a45-cfedfe969d26",
+  "name": "BAT Phase 2",
+  "publisher": "Levtech",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [
+    {
+      "id": "71526075-ff0a-4af6-b5c5-60eb6f8c1418",
+      "name": "RJEDevelopments",
+      "publisher": "Levtech",
+      "version": "1.0.0.0"
+    },
+    {
+      "id": "f3688f27-9e20-4dce-a8ac-789b19a8d3ed",
+      "name": "BAT Workflows",
+      "publisher": "Levtech",
+      "version": "1.0.0.0"
+    }
+  ],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "18.0.0.0",
+  "idRanges": [
+    {
+      "from": 60100,
+      "to": 60149
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://BATPhase2/help/",
+  "showMyCode": true,
+  "runtime": "7.0"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "af0f4005-c41b-446f-afa7-df4acd8b2371",
+  "name": "RevenueRecogReport",
+  "publisher": "Default publisher",
+  "version": "1.0.0.0",
+  "runtime": "8.0",
+  "target": "Cloud",
+  "platform": "19.0.29884.30390",
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": false,
+    "includeSourceInSymbolFile": false
+  },
+  "dependencies": [
+    {
+      "id": "cd5c3345-ce77-4896-b104-1b8920927115",
+      "name": "Xsens",
+      "version": "1.0.0.0",
+      "publisher": "Levtech"
+    },
+    {
+      "id": "c1335042-3002-4257-bf8a-75c898ccb1b8",
+      "name": "Application",
+      "version": "19.0.0.0",
+      "publisher": "Microsoft"
+    }
+  ],
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ]
+}
